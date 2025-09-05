@@ -126,7 +126,7 @@ function App() {
       company: 'Mirai School of Technology',
       duration: 'Jul 2025 – Aug 2025',
       description: 'Built interfaces with AI tools and developed machine learning solutions for educational technology.',
-      current: true
+      current: false
     },
     {
       title: 'Web Dev Intern',
