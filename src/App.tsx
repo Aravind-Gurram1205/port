@@ -64,7 +64,7 @@ function App() {
     web: [
       { name: 'HTML', level: 90, color: 'from-yellow-400 to-yellow-600' },
       { name: 'CSS', level: 85, color: 'from-emerald-400 to-emerald-600' },
-      { name: 'CSS', level: 85, color: 'from-emerald-400 to-emerald-600' },
+      { name: 'JavaScript', level: 60, color: 'from-emerald-400 to-emerald-600' },
     ],
     databases: [
       { name: 'MySQL', level: 80, color: 'from-teal-400 to-teal-600' },
@@ -130,7 +130,7 @@ function App() {
       current: false
     },
     {
-      title: 'Web Dev Intern',
+      title: 'Web Development Intern',
       company: 'Advit Software Solution',
       duration: 'May 2025 – Jun 2025',
       description: 'Created responsive user interfaces using HTML, CSS, and JavaScript for various client projects.',
