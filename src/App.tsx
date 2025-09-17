@@ -64,6 +64,7 @@ function App() {
     web: [
       { name: 'HTML', level: 90, color: 'from-yellow-400 to-yellow-600' },
       { name: 'CSS', level: 85, color: 'from-emerald-400 to-emerald-600' },
+      { name: 'CSS', level: 85, color: 'from-emerald-400 to-emerald-600' },
     ],
     databases: [
       { name: 'MySQL', level: 80, color: 'from-teal-400 to-teal-600' },
@@ -72,7 +73,7 @@ function App() {
     tools: [
       { name: 'Git', level: 85, color: 'from-orange-400 to-orange-600' },
       { name: 'VS Code', level: 90, color: 'from-yellow-400 to-yellow-600' },
-      { name: 'Figma', level: 65, color: 'from-teal-400 to-teal-600' },
+      { name: 'N8N', level: 75, color: 'from-teal-400 to-teal-600' },
     ],
     soft: [
       { name: 'Communication', level: 90, color: 'from-emerald-400 to-emerald-600' },
@@ -125,7 +126,7 @@ function App() {
       title: 'AI Intern',
       company: 'Mirai School of Technology',
       duration: 'Jul 2025 – Aug 2025',
-      description: 'Built interfaces with AI tools and developed machine learning solutions for educational technology.',
+      description: 'Built interfaces with AI tools and Gained hands-on experience in automation workflows, prompt engineering, and rapid prototyping of AI-driven solutions.',
       current: false
     },
     {
