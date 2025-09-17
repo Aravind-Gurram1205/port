@@ -118,7 +118,7 @@ function App() {
       tech: ['Java', 'Swing', 'GUI', 'Game Development'],
       icon: <Code className="w-8 h-8" />,
       gradient: 'from-orange-400 to-yellow-500'
-    }
+    },
     
     {
     title: 'AI Travel Planner',
@@ -291,7 +291,7 @@ function App() {
                 </p>
                 <div className="flex items-center justify-center lg:justify-start space-x-2 text-gray-300">
                   <MapPin className="w-5 h-5" />
-                  <span>India</span>
+                  <span>Vijayawada,Andhra Pradesh,India</span>
                 </div>
               </div>
 
