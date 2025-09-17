@@ -119,6 +119,15 @@ function App() {
       icon: <Code className="w-8 h-8" />,
       gradient: 'from-orange-400 to-yellow-500'
     }
+    
+    {
+    title: 'AI Travel Planner',
+  description: 'Automated system that collects user travel details, generates personalized travel plans using Lovable AI, and sends them to the user\'s email via N8N workflows with data managed in Excel.',
+  tech: ['N8N', 'Lovable AI', 'Excel', 'Automation', 'Workflow Orchestration'],
+  icon: <Code className="w-8 h-8" />,
+  gradient: 'from-indigo-400 to-purple-500'
+}
+
   ];
 
   const experience = [
